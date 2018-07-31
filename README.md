@@ -25,7 +25,7 @@
 sequence with the guidance of its structural prediction of the context of the target sequence. The model gets very competitive results. It is robust to translate sentences of different lengths and it also
 reduces repetition phenomenon. 
 
-- ### [bag-of-words as Target for NMT](https://github.com/lancopku/bag-of-words)
+- ### [bag-of-words as target for NMT](https://github.com/lancopku/bag-of-words)
 
   Code for “[Bag-of-Words as Target for Neural Machine Translation](https://arxiv.org/pdf/1805.04871.pdf)”. This work uses both the sentences and the bag-of-words as targets in the training stage, which encourages
 the model to generate the potentially correct sentences that are not appeared in the training set. Experiments show the model outperforms the strong baselines by a large margin.
