@@ -130,7 +130,7 @@ words automatically when predicting different labels.
 new dataset for automatically evaluating academic papers and proposes a novel modularized hierarchical convolutional neural network for this task.  
 
 
-- ### [tcm_prescription_generation (Traditional Chinese Medicine prescription_generation)](https://github.com/lancopku/tcm_prescription_generation)
+- ### [tcm_prescription_generation (Traditional Chinese Medicine prescription generation)](https://github.com/lancopku/tcm_prescription_generation)
 
   Code for “[Exploration on Generating Traditional ChineseMedicine Prescriptions from Symptoms with an End-to-End Approach](https://arxiv.org/pdf/1801.09030.pdf)”. This work explores the Traditional Chinese Medicine prescription generation task using seq2seq models.   
 
