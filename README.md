@@ -146,7 +146,7 @@ new dataset for automatically evaluating academic papers and proposes a novel mo
   Data for “[Building an Ellipsis-aware Chinese Dependency Treebank for Web Text](https://arxiv.org/pdf/1801.06613.pdf)”. This work builds a Chinese weibo dependency treebank which contains 572
 sentences with omissions restored and contexts reserved, aimed at improving dependency parsing for texts with ellipsis.    
 
-- ### [Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset)
+- ### [Chinese-Abbreviation-Dataset](https://github.com/lancopku/Chinese-abbreviation-dataset)
 
   Data for “[A Chinese Dataset with Negative Full Forms for General Abbreviation Prediction](https://arxiv.org/pdf/1712.06289.pdf)”. This work builds a dataset for general Chinese abbreviation prediction. The dataset incorporates negative full forms to promote the research in this area.  
 
